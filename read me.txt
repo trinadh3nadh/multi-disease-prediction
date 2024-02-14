@@ -1,0 +1,4 @@
+run the model in the command prompt using streamlit run and path of the "multiple_disease_prediction_webapp.py"
+
+
+refer to the run.txt file

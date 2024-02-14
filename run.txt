@@ -1,0 +1,1 @@
+streamlit run "C:\Users\TRINADH\Desktop\stramlit\multi_disease_webapp\multiple_disease_prediction_webapp.py"
